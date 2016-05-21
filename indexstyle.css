@@ -1,1 +1,10 @@
-indexstyle.css
+body{background-color: #0099ff}
+h1 {
+	color: #fff;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+h1 {
+    font-size: 3em; /* 40px/16=2.5em */
+}
